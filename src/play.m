@@ -1,5 +1,5 @@
 function ret=play(freq, delay, hold, totalTime)
-    Fs = 22050;
+    Fs = 44100;
     Ts = 1/Fs;
     F0 = freq;
     D = ceil(hold+1); % duration = holding time + fading time

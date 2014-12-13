@@ -78,6 +78,8 @@ p = 3*play(C5, 0, 0.1, 15)+...
     play(B3, 12.2, 0.5, 15)+...
     3*play(D5, 12.2, 0.5, 15);
 
+% Rescale
+p = p / max(p);
 % Play the sound
-soundsc(p, 22050);
-plot_spectrum(p, 22050, 'music piece');
+soundsc(p, 44100);
+plot_spectrum(p, 44100, 'music piece');
