@@ -1,4 +1,8 @@
 # EE 102 Final Project Report
+
+## Folder Structure
+ - Plot files are in plot folder.
+ - Code and sound files are in src folder.
 ## Team Members
  - Yu, Mengyuan (204151211)
  - Chen, Kolya (304163713)
