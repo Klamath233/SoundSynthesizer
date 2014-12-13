@@ -7,6 +7,7 @@
  	- play.m is the play(freq, delay, hold, totalLength) function specified in the report.
  	- piece3.m is the script we use to generate the music.
  	- music.wav is the music generated.
+
 ## Team Members
  - Yu, Mengyuan (204151211)
  - Chen, Kolya (304163713)
